@@ -1,6 +1,5 @@
 
-# I made a small Python program that creates strong passwords. The user
-# -enters a number, and the program gives a password using random letters, numbers, and symbols!
+# I made a small Python program that creates strong passwords. The user enters a number, and the program gives a password using random letters, numbers, and symbols!
 import random
 import string
 
